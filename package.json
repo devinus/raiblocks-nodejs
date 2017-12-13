@@ -1,0 +1,26 @@
+{
+  "name": "raiblocks",
+  "version": "0.1.0",
+  "description": "RaiBlocks Node.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinus/raiblocks-nodejs.git"
+  },
+  "keywords": [
+    "raiblocks",
+    "xrb"
+  ],
+  "author": "Devin Alexander Torres <d@devinus.io>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/devinus/raiblocks-nodejs/issues"
+  },
+  "homepage": "https://github.com/devinus/raiblocks-nodejs#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
